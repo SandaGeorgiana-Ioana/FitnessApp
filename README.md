@@ -1,4 +1,5 @@
 Documentatie
+
 [Documentație_FitnessApp _Sanda_Georgiana_CALC3.pdf](https://github.com/user-attachments/files/25870987/Documenta.ie_FitnessApp._Sanda_Georgiana_CALC3.pdf)
 
 Prezentarea aplicatiei
