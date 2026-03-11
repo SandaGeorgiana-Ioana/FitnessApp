@@ -1,8 +1,8 @@
-Documentatie
+# Documentație
 
 [Documentație_FitnessApp _Sanda_Georgiana_CALC3.pdf](https://github.com/user-attachments/files/25870987/Documenta.ie_FitnessApp._Sanda_Georgiana_CALC3.pdf)
 
-Prezentarea aplicatiei
+# Prezentarea aplicației
 <img width="755" height="741" alt="Captură de ecran 2026-03-10 152735" src="https://github.com/user-attachments/assets/f408f301-7f53-48d3-b5f0-a9da6e56d82f" />
 <img width="701" height="687" alt="Captură de ecran 2026-03-10 152759" src="https://github.com/user-attachments/assets/fb1cd00c-19cd-4bc8-aa51-a173b85a23ec" />
 <img width="720" height="672" alt="Captură de ecran 2026-03-10 152807" src="https://github.com/user-attachments/assets/e332c961-c2f5-457e-9914-718816904011" />
